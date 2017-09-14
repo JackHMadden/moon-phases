@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Assets/Scripts/TimeBody.cs">
+    <Files>
+      <File FileName="Assets/Assets/Scripts/Rotation.cs" Line="1" Column="1" />
+      <File FileName="Assets/Assets/Scripts/Orbit.cs" Line="1" Column="1" />
+      <File FileName="Assets/Assets/Scripts/Oscillator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Assets/Scripts/TimeBody.cs" Line="9" Column="9" />
+      <File FileName="Assets/Assets/Scripts/pausetime.cs" Line="1" Column="1" />
+      <File FileName="Assets/Assets/Scripts/PointInTime.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
